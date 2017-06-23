@@ -1,0 +1,6 @@
+{
+  "manifest_version": 1,
+  "name": "qroutline fcm manifest",
+  "version": "0.1",
+  "gcm_sender_id": "103953800507"
+}
